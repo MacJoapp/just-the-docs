@@ -48,4 +48,9 @@ Así mismo, fue considerado por varios medios como el mejor automóvil del mundo
 
 ![ bugatti ultilizado en el record de velocidad de 2007.](https://www.diariomotor.com/imagenes/2012/10/bugatti-veyron-ficha-1017-168.jpg)
 
-# Video del bugatti veyron rompiendo el [RECORDE MUNDIAL DE VELOCIDADE](https://www.youtube.com/watch?v=rvn4lHrr6AQ)
+Video del bugatti veyron rompiendo el [RECORDE MUNDIAL DE VELOCIDADE](https://www.youtube.com/watch?v=rvn4lHrr6AQ)
+nav_external_links:
+  - title: wikipedia del bugatti veyron
+    url: https://en.wikipedia.org/wiki/Bugatti_Veyron
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
