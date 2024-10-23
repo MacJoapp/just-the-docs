@@ -40,13 +40,12 @@ un enfriador de aceite diferencial;
 
 un enfriador de aceite del motor.
 ![imagem de los radiadoresdel bugatti veyron](https://static2.businessinsider.com/image/4f888692eab8ea583e000006-900/so-they-upped-the-cooling-capacity-each-veyron-has-10-radiators.jpg)
-En condiciones normales de uso, tiene un coeficiente aerodinámico de 0,41. Después de insertar una llave especial que reduce la distancia al suelo, el coeficiente cae a 0,36. Tiene un área frontal de 2,07 m², por lo que el área de arrastre es CdA= 0,74 m².
 
-##Récords
-**Récords**
-
+## Récords
 El vehículo obtuvo el récord del automóvil más rápido del mundo en 2007. Posteriormente, fue superado por el SSC Ultimate Aero, con una velocidad máxima de 411,76 km/h (255,86 mph). Sin embargo, en junio de 2010, su versión más potente Super Sport, rompió nuevamente el récord con una velocidad máxima de 431,072 km/h (267,86 mph),11​ registro oficial de los récords Guinness, para luego ser desplazado por el Hennessey Venom GT con una velocidad de 435,21 km/h (270,43 mph). Del mismo modo, también ostentaba la marca del auto más caro del mundo, según una lista publicada por la revista Forbes, aunque posteriormente fue superado por modelos como el Lamborghini Veneno, el Maybach Exelero y, finalmente, por el Lykan HyperSport. El Veyron tiene un precio aproximado de 1,6 millones de euros antes de impuestos.
 
 Así mismo, fue considerado por varios medios como el mejor automóvil del mundo, una de las razones es que la marca alsaciana se dedicó a fabricar sólo este modelo y no fabricó otros modelos como hacen otros fabricantes de vehículos. La firma planeó una producción limitada de 500 unidades en su versión cupé; y 300 unidades descapotables antes de empezar a desarrollar otro modelo.
 
 ![ bugatti ultilizado en el record de velocidad de 2007.](https://www.diariomotor.com/imagenes/2012/10/bugatti-veyron-ficha-1017-168.jpg)
+
+Video del bugatti veyron rompiendo el [RECORDE MUNDIAL DE VELOCIDADE](https://www.youtube.com/watch?v=rvn4lHrr6AQ)
